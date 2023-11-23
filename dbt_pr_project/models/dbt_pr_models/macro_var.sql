@@ -1,0 +1,1 @@
+SELECT * FROM {{ var("table_name") }}

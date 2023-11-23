@@ -1,0 +1,1 @@
+select * from stest.customer limit 100
